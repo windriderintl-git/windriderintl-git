@@ -33,7 +33,7 @@ Two other orchestration systems I built, measured and shut down. One (~169,000 l
 
 ## Public projects here
 
-- **[whisperapp](https://github.com/windriderintl-git/whisperapp)**: friends of mine were paying $15 a month for Wispr Flow, a dictation app, so I built a free replacement that runs entirely on your own computer. Hold a hotkey and speak; it transcribes with Whisper, cleans up the text with a local AI model and matches the tone to the app you're typing in. No subscription, nothing sent to the cloud.
+- **[whisperapp](https://github.com/windriderintl-git/whisperapp)**: friends of mine were paying $15 a month for Wispr Flow, a dictation app, so I built a free, open-source (MIT) replacement that runs entirely on your own computer. Hold a hotkey and speak; it transcribes with Whisper, cleans up the text with a local AI model and matches the tone to the app you're typing in. No subscription, nothing sent to the cloud.
 - **[AIIMNIFY](https://github.com/windriderintl-git/AIIMNIFY)**: packages internal notes and Claude/Codex skills for sharing, stripping out private information first.
 - **[soth-mockup](https://github.com/windriderintl-git/soth-mockup)**: a 12-page website redesign mockup for a community organization.
 
